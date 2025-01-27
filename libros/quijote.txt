@@ -40,3 +40,13 @@ En fe del buen acogimiento y honra que hace Vuestra Excelencia a toda suerte de 
         que aquella noche las podría velar en un patio 
  del castillo; que a la mañana, siendo Dios servido, se harían las debidas ceremonias, de manera 
  que él quedase armado caballero, y tan caballero, que no pudiese ser más en el mundo.
+
+
+
+ # El Quijote
+
+Este repositorio contiene el texto de *El Ingenioso Hidalgo Don Quijote de la Mancha*, extraído de Cervantes Virtual.
+
+## Estructura del repositorio
+
+- **libros/quijote.txt**: Contiene el texto de El Quijote.
